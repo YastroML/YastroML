@@ -1,4 +1,4 @@
-Chapter3
+YastroML
 ========
 
-chapter 3 materials to complement the textbook
+Materials for the remainder of the book.

@@ -14,3 +14,8 @@ Put your ipython notebook and any data files necessary in there, and then use
 git to commit those files. Then just ask one of the people with access to the
 repository to merge it in, or you can issue a Pull Request from the Github web
 interface.
+
+Accessing IPython Notebooks
+---------------------------
+For quick access to the IPython Notebooks check out the IPython Notebook Viewer page for the YastroML repository here:
+[http://nbviewer.ipython.org/github/YastroML/YastroML](http://nbviewer.ipython.org/github/YastroML/YastroML)

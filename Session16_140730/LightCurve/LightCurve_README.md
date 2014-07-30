@@ -1,0 +1,3 @@
+The .txt file shows photometric data gathered of a blazar, 3C279, with the SMARTS 1.3m telescope + ANDICAM. The first column is the date in YYYYMMDD, the second is the date in Julian Date, the third is the R band Magnitude (Johnson Cousoins system), and the 4th are statistical errors of the magnitude (from the number of counts).
+
+This source experienced several flares in the past six months. you can see this by using the .py file to do a quick plot. We would like to break this plot up into serveral other light curves to clearly show each flare seperately, so we can better understand them.

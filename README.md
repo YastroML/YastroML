@@ -1,8 +1,8 @@
 YastroML
 ========
 
-Materials for the Yale Astronomy department's informal seminar on statistics and data mining.
-We are using the ["Statistics, Data Mining, and Machine Learning in Astronomy" textbook](http://press.princeton.edu/titles/10159.html).
+Materials for the Yale Astronomy department's informal seminar on statistics, data mining, and machine 
+learning in astronomy. We are using the ["Statistics, Data Mining, and Machine Learning in Astronomy" textbook](http://press.princeton.edu/titles/10159.html).
 
 How to contribute
 -----------------
